@@ -1,0 +1,23 @@
+# Compiled objects
+*.o
+*.gch
+
+# Executables
+warmup1
+listtest
+
+# Submission archive
+warmup1.tar.gz
+
+# Grading data (large)
+w1data.tar.gz
+w1data/
+
+# Grading scripts and expected output
+section-A.sh
+section-A.out
+section-B.sh
+section-B.out
+
+# Test output
+*.sort
