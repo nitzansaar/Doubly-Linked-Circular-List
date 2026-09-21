@@ -1,7 +1,6 @@
 # Doubly-Linked Circular List & Transaction Sort Engine
 
-A high-performance doubly-linked circular list data structure implemented from scratch in C, used to power a sorted bank transaction ledger with formatted output. Built as part of USC's CSCI 402 (Operating Systems) curriculum.
-
+A high-performance doubly-linked circular list data structure implemented from scratch in C, used to power a sorted bank transaction ledger with formatted output.
 ## Overview
 
 This project has two components:
